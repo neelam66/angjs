@@ -1,0 +1,31 @@
+{
+	"studentPersonal" :
+	[
+		{
+			"id"    : 501,
+			"fname" : "Pooja",
+			"lname" : "Gupta",
+			"city"  : "Mumbai",
+			"rollno":101,
+			"marks":100
+		},
+		{
+			"id"    : 502,
+			"fname" : "Neelam",
+			"lname": "Mendhe",
+			"city"  : "Panval"
+		},
+		{
+			"id"    : 503,
+			"fname" : "Chetan",
+			"lname" : "Neware",
+			"city"  : "Ulhasnagar"
+		},
+		{
+			"id"    : 504,
+			"fname" : "Mahesh",
+			"lname" : "Londhe",
+			"city"  : "Thane"
+		}
+	]
+}

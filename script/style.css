@@ -1,0 +1,44 @@
+    section{
+    text-align:center;
+   
+    }
+    h1{
+    text-align:center;
+    border-bottom:5px solid black;
+    width:18%;
+    margin:0 auto;
+    }
+    
+    table {
+        border: 1px solid black;
+        text-align:center;
+        margin-left:25%;
+        width:50%;
+        
+      }
+
+     table tr{
+        border: 1px solid black;
+    }
+
+    table th{
+        border: 1px solid black;
+        padding:4px;
+        vertical-align: inherit;
+        background-color:gray;
+    }
+    table td{
+        border: 1px solid black;
+        padding:3px;
+        background-color:gainsboro;
+        
+
+    } 
+
+
+    
+    .personal{
+    margin-left:25%;
+ 
+    }
+   
